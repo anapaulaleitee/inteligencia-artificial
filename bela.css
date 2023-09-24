@@ -1,0 +1,67 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	width: 100%;
+}
+
+a{
+	text-decoration: none;
+	color: #4c6b42;
+	margin-left: 50px;
+	font-family: Cooper Std Black;
+}
+
+.ana{
+	background: none;
+	background: url('img/inicial.jpg') no-repeat bottom center scroll;
+	background-position: 90% 0%;
+	background-size: cover;
+}
+
+h5{
+	font-family: Arial;
+	color: #000000;
+	margin: 1%;
+}
+
+p{
+	font-family:Anton;
+	margin: 2%;
+	text-align: justify;
+}
+
+.titulos{
+	font-family: Cooper Std;
+	color: #95ba9a;
+	font-size: 250%;
+	text-align: center;
+}
+.subt{
+	font-family: Cooper Std;
+	color: 	#698B22;
+	font-size: 180%;
+	text-align: center;
+}
+
+.curi{
+	font-family: Cooper Std;
+	color: 	#698B22;
+	font-size: 150%;
+	text-align: center;
+}
+
+.his{
+	font-family: Cooper Std;
+	color: #719576;
+	font-size: 250%;
+	text-align: center;
+}
+
+.topo{
+	text-align: right;
+	color: #242739;
+	font-size: 150%;
+}
